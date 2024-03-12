@@ -1,5 +1,6 @@
 # device-specific project conf:
 Prefer: droid-hal-s19mps-devel
+Prefer: hybris-libsensorfw-qt5-hal
 Prefer: ohm-configs-default
 
 # droid-hal has Requires(post): droid-config-flashing which is not really needed at build time
